@@ -10,7 +10,7 @@
 
 👀 <b>More About Me</b>
 
-블로그 : <a href="jxxtty.tistory.com">쟅's log</a>
+블로그 : <a href="https://jxxtty.tistory.com" target="_blank">쟅's log</a>
 
 이메일 : jaehee941106@gmail.com
 
