@@ -1,16 +1,16 @@
-### Hi there 👋
+🛠<b>Technical Stack</b> 
 
-<!--
-**jxxtty/jxxtty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+`Java` `Spring` `Spring Boot`
 
-Here are some ideas to get you started:
+`MyBatis` `JPA` `Spring Data JPA` `Querydsl` `Oracle` `MySQL` 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`JSP` `Thymeleaf` `JavaScript` `jquery` `HTML` `CSS` 
+
+
+
+👀 <b>More About Me</b>
+
+블로그 : <a href="jxxtty.tistory.com">쟅's log</a>
+
+이메일 : jaehee941106@gmail.com
+
